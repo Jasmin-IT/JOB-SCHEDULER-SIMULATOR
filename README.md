@@ -19,6 +19,7 @@ A Python-based simulation of an Operating System task scheduler. This project us
 ## 📦 How to Run
 1. **Clone the repository:**
 
+         git clone https://github.com/Jasmin-IT/JOB-SCHEDULER-SIMULATOR.git
 
 2.**Install dependencies:**
    
